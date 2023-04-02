@@ -18,11 +18,7 @@ I designed the project and I am currently working on the front part.
 
 ## Preview
 
-<img width="1440" alt="Capture d’écran 2023-03-18 à 16 55 05" src="(https://user-images.githubusercontent.com/102388803/229343708-834ef854-3329-4ab2-ad0c-3e1d4914c7f0.jpg">
-
-<br />
-
-<img width="1440" alt="Capture d’écran 2023-03-18 à 16 55 05" src="(https://user-images.githubusercontent.com/102388803/229343708-834ef854-3329-4ab2-ad0c-3e1d4914c7f0.jpg">
+![sneakers-01](https://user-images.githubusercontent.com/102388803/229343846-628effb6-e207-4f31-b721-fec70dc711f9.jpg)
 
 
 <br />
