@@ -14,9 +14,11 @@ export default function Blog() {
         <div className='grid grid-cols-1 px-20 md:grid-cols-2 lg:grid-cols-3 gap-28 pt-6 mt-16'>
             <div>
                 <div className='space-y-4'>
-                    <div className='flex items-end space-x-12'>
-                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>LOREM IPSUM</h1>
-                        <div className='text-[#ff3d16] text-5xl'><ion-icon name="add-circle-outline"></ion-icon></div>
+                    <div className='flex items-end'>
+                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>DOLOR SIT / </h1>
+                        <div className='flex items-end'>
+                            <button className='text-[#ff3d16] text-5xl hover:text-[#ff340c80] duration-500'><ion-icon name="add-outline"></ion-icon></button>
+                        </div>
                     </div>
                     <p className='text-[#ff3d16] font-worksans font-normal text-base leading-tight uppercase text-justify tracking-normal opacity-70'>
                     Lorem ipsum dolor sit amet ipsa minus consectetur ipsa adipisicing elit ab. 
@@ -25,15 +27,17 @@ export default function Blog() {
                 <div className='mt-8'>
                     <img className='h-[250px] w-[500px] object-cover' src="./sneakers/adrian-hernandez-p9qBYkbpKiw-unsplash.jpg" alt="nike classic cortez" />
                 </div>
-                <div className='bg-[#ff3d16] py-8'>
-                    <p className=' font-league text-3xl tracking-wider text-[#1b1b1b] text-right mr-4'>READ MORE → </p>
+                <div className='bg-[#ff3d16] py-8 text-right'>
+                    <button className=' font-league text-3xl tracking-wider text-[#1b1b1b] mr-4 hover:text-[#F2F2F2] duration-500'>READ MORE → </button>
                 </div>
             </div>
             <div>
                 <div className='space-y-4'>
-                <div className='flex items-end space-x-12'>
-                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>LOREM IPSUM</h1>
-                        <div className='text-[#ff3d16] text-5xl'><ion-icon name="add-circle-outline"></ion-icon></div>
+                <div className='flex items-end'>
+                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>LOREM IPS / </h1>
+                        <div className='flex items-end'>
+                            <button className='text-[#ff3d16] text-5xl hover:text-[#ff340c80] duration-500'><ion-icon name="add-outline"></ion-icon></button>
+                        </div>
                     </div>
                     <p className='text-[#ff3d16] font-worksans font-normal text-base leading-tight uppercase text-justify tracking-normal opacity-70'>
                     Lorem ipsum dolor sit amet ipsa minus consectetur ipsa adipisicing elit ab. 
@@ -42,15 +46,17 @@ export default function Blog() {
                 <div className='mt-8'>
                     <img className='h-[250px] w-[500px] object-cover' src="./sneakers/lefteris-kallergis-j1GiPlvSGWI-unsplash.jpg" alt="nike classic cortez" />
                 </div>
-                <div className='bg-[#ff3d16] py-8'>
-                    <p className=' font-league text-3xl tracking-wider text-[#1b1b1b] text-right mr-4'>READ MORE → </p>
+                <div className='bg-[#ff3d16] py-8 text-right'>
+                    <button className=' font-league text-3xl tracking-wider text-[#1b1b1b] mr-4 hover:text-[#F2F2F2] duration-500'>READ MORE → </button>
                 </div>
             </div>
             <div>
                 <div className='space-y-4'>
-                <div className='flex items-end space-x-12'>
-                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>LOREM IPSUM</h1>
-                        <div className='text-[#ff3d16] text-5xl'><ion-icon name="add-circle-outline"></ion-icon></div>
+                <div className='flex items-end'>
+                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>SIT AMET / </h1>
+                        <div className='flex items-end'>
+                            <button className='text-[#ff3d16] text-5xl hover:text-[#ff340c80] duration-500'><ion-icon name="add-outline"></ion-icon></button>
+                        </div>
                     </div>
                     <p className='text-[#ff3d16] font-worksans font-normal text-base leading-tight uppercase text-justify tracking-normal opacity-70'>
                     Lorem ipsum dolor sit amet ipsa minus consectetur ipsa adipisicing elit ab. 
@@ -59,8 +65,8 @@ export default function Blog() {
                 <div className='mt-8'>
                     <img className='h-[250px] w-[500px] object-cover' src="./sneakers/leon-skibitzki-NMyuo1hoCAA-unsplash.jpg" alt="nike classic cortez" />
                 </div>
-                <div className='bg-[#ff3d16] py-8'>
-                    <p className=' font-league text-3xl tracking-wider text-[#1b1b1b] text-right mr-4'>READ MORE → </p>
+                <div className='bg-[#ff3d16] py-8 text-right'>
+                    <button className=' font-league text-3xl tracking-wider text-[#1b1b1b] mr-4 hover:text-[#F2F2F2] duration-500'>READ MORE → </button>
                 </div>
             </div>
            
@@ -68,9 +74,11 @@ export default function Blog() {
 
             <div>
                 <div className='space-y-4'>
-                <div className='flex items-end space-x-12'>
-                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>LOREM IPSUM</h1>
-                        <div className='text-[#ff3d16] text-5xl'><ion-icon name="add-circle-outline"></ion-icon></div>
+                <div className='flex items-end'>
+                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>ELIT LAB / </h1>
+                        <div className='flex items-end'>
+                            <button className='text-[#ff3d16] text-5xl hover:text-[#ff340c80] duration-500'><ion-icon name="add-outline"></ion-icon></button>
+                        </div>
                     </div>
                     <p className='text-[#ff3d16] font-worksans font-normal text-base leading-tight uppercase text-justify tracking-normal opacity-70'>
                     Lorem ipsum dolor sit amet ipsa minus consectetur ipsa adipisicing elit ab. 
@@ -79,15 +87,17 @@ export default function Blog() {
                 <div className='mt-8'>
                     <img className='h-[250px] w-[500px] object-cover' src="./sneakers/ryan-plomp-jvoZ-Aux9aw-unsplash.jpg" alt="nike classic cortez" />
                 </div>
-                <div className='bg-[#ff3d16] py-8'>
-                    <p className=' font-league text-3xl tracking-wider text-[#1b1b1b] text-right mr-4'>READ MORE → </p>
+                <div className='bg-[#ff3d16] py-8 text-right'>
+                    <button className=' font-league text-3xl tracking-wider text-[#1b1b1b] mr-4 hover:text-[#F2F2F2] duration-500'>READ MORE → </button>
                 </div>
             </div>
             <div>
                 <div className='space-y-4'>
-                <div className='flex items-end space-x-12'>
-                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>LOREM IPSUM</h1>
-                        <div className='text-[#ff3d16] text-5xl'><ion-icon name="add-circle-outline"></ion-icon></div>
+                <div className='flex items-end'>
+                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>IPSA MINUS / </h1>
+                        <div className='flex items-end'>
+                            <button className='text-[#ff3d16] text-5xl hover:text-[#ff340c80] duration-500'><ion-icon name="add-outline"></ion-icon></button>
+                        </div>
                     </div>
                     <p className='text-[#ff3d16] font-worksans font-normal text-base leading-tight uppercase text-justify tracking-normal opacity-70'>
                     Lorem ipsum dolor sit amet ipsa minus consectetur ipsa adipisicing elit ab. 
@@ -96,15 +106,17 @@ export default function Blog() {
                 <div className='mt-8'>
                     <img className='h-[250px] w-[500px] object-cover' src="./sneakers/xavier-teo-SxAXphIPWeg-unsplash.jpg" alt="nike classic cortez" />
                 </div>
-                <div className='bg-[#ff3d16] py-8'>
-                    <p className=' font-league text-3xl tracking-wider text-[#1b1b1b] text-right mr-4'>READ MORE → </p>
+                <div className='bg-[#ff3d16] py-8 text-right'>
+                    <button className=' font-league text-3xl tracking-wider text-[#1b1b1b] mr-4 hover:text-[#F2F2F2] duration-500'>READ MORE → </button>
                 </div>
             </div>
             <div>
                 <div className='space-y-4'>
-                <div className='flex items-end space-x-12'>
-                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>LOREM IPSUM</h1>
-                        <div className='text-[#ff3d16] text-5xl'><ion-icon name="add-circle-outline"></ion-icon></div>
+                <div className='flex items-end'>
+                        <h1 className='text-[#ff3d16] font-league text-6xl tracking-wider'>DELENITI / </h1>
+                        <div className='flex items-end'>
+                            <button className='text-[#ff3d16] text-5xl hover:text-[#ff340c80] duration-500'><ion-icon name="add-outline"></ion-icon></button>
+                        </div>
                     </div>
                     <p className='text-[#ff3d16] font-worksans font-normal text-base leading-tight uppercase text-justify tracking-normal opacity-70'>
                     Lorem ipsum dolor sit amet ipsa minus consectetur ipsa adipisicing elit ab. 
@@ -113,8 +125,8 @@ export default function Blog() {
                 <div className='mt-8'>
                     <img className='h-[250px] w-[500px] object-cover' src="./sneakers/christian-lucas-6htTITnUml8-unsplash.jpg" alt="nike classic cortez" />
                 </div>
-                <div className='bg-[#ff3d16] py-8'>
-                    <p className=' font-league text-3xl tracking-wider text-[#1b1b1b] text-right mr-4'>READ MORE → </p>
+                <div className='bg-[#ff3d16] py-8 text-right'>
+                    <button className=' font-league text-3xl tracking-wider text-[#1b1b1b] mr-4 hover:text-[#F2F2F2] duration-500'>READ MORE → </button>
                 </div>
             </div>
             
